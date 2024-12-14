@@ -41,6 +41,7 @@ I am a **Strong Advocate** for 📖 continuous learning, 💼 impressive project
    <br>
 <br>
 <a target="_blank" href="www.linkedin.com/in/aleks-goncharuk"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.fiverr.com/aleksgoncharuk"><img src="https://img.shields.io/badge/-Fiverr-00eb4a?style=for-the-badge"></a>
 <a target="_blank" href="mailto:aleksgoncharuk2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <br>
